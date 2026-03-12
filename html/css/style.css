@@ -552,7 +552,7 @@ nav ul {
 .blog_item:hover .blog_img img { transform: scale(1.05); }
 .blog_date { position: absolute; bottom: 0; left: 0; background: linear-gradient(to right, #f74f84, #f8a361); padding: 8px 18px; border-radius: 0 8px 0 0; }
 .blog_date span { color: #fff; font-size: 13px; font-weight: 600; letter-spacing: 1px; }
-.blog_text { padding: 20px; background: #fff5f7; }
+.blog_text { padding: 20px; background: #fff; }
 .blog_text h3 { font-size: 18px; font-weight: 700; color: #1a1a2e; margin-bottom: 10px; line-height: 1.4; }
 .blog_text p { font-size: 14px; color: #666; margin-bottom: 15px; }
 .blog_footer { display: flex; gap: 20px; border-top: 1px solid #f0d0da; padding-top: 12px; }
