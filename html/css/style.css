@@ -413,6 +413,26 @@ nav ul {
     transition: all 1s;
 }
 
+.feature_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 90px;
+    flex-shrink: 0;
+    z-index: 1;
+    transition: all 1s;
+}
+
+.feature_icon svg {
+    width: 90px;
+    height: 90px;
+}
+
+.feature_bg:hover .feature_icon svg * {
+    stroke: #fff;
+}
+
 .feature_bg div {
     padding: 25px;
     z-index: 1;
